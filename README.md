@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Me chamo Alexander, tenho 20 anos e estou empenhada em entrar na área de Desenvolvimento Web Front-end!
+Me chamo Alexander, tenho 20 anos e estou empenhada em entrar na área de Desenvolvimento Web Front-End!
 
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento web e design de interfaces, buscando criar aplicações que sejam bonitas, intuitivas e agradáveis de usar.
 
