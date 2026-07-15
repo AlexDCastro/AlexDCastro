@@ -46,6 +46,15 @@
 ###
 
 <h4 align="center">Sempre buscando evoluir um código de cada vez. ⸻.˚★</h4>
+<p></p>
+<p></p>
+<p></p>
+
+<p align="center">
+  <a href="https://github.com/AlexDCastro">
+    <img src="https://img.shields.io/badge/by-AlexDCastro-9c4a49?style=for-the-badge&logo=github&logoColor=white" alt="by AlexDCastro">
+  </a>
+</p>
 
 
 
