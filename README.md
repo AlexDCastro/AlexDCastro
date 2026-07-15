@@ -6,16 +6,16 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web e design
 
 ## 💻 Tecnologias que estou aprendendo:
 
-HTML5
-CSS3
-JavaScript
-Git e GitHub
+- HTML5
+- CSS3
+- JavaScript
+- Git e GitHub
 
 ## 🎨 Interesses:
 
-Front-end
-UI/UX Design
-Prototipação no Figma
+- Front-end
+- UI/UX Design
+- Prototipação no Figma
 
 ## 🚀 Projetos:
 
